@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+          <a href="index.html">Red Sox</a>
+          <a href="Page 3">Marlins</a>
+          <a href="Page 4">Jets</a>
+          <a href="Page 5">Rangers</a>
+          <a href="Page 6">Manchester United</a>
+</html>
+
+<h1>Baseball</h1>
+<h2>Chicago Cubs</h2>
+<h3>Chicago's Finest</h3>
+ <img src="Cubs"/>
+<P>The Chicago Cubs are one of the oldest teams in baseball. They have 3 World Series wins and play at the famous Wrigley Field.</p>
+
+<table border=2>
+  <tr>
+  <td>"NL Central"</td>
+  </tr>
+<tr>
+  <td>Chicago Cubs</td>
+</tr>
+<tr>
+  <td>Milwaukee Brewers</td>
+</tr>
+<tr>
+  <td>Cincinnati Reds</td>
+</tr>
+<tr>
+  <td>Pittsburgh Pirates</td>
+</tr>
+<tr>
+  <td>St. Louis Cardinals</td>
+</tr>
+
+<a href=https://www.mlb.com/cubs>Hey! Wanna know more about the Cubs? Click here!</a>

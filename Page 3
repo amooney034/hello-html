@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+          <a href="index.html">Red Sox</a>
+          <a href="Page 2">Cubs</a>
+          <a href="Page 4">Jets</a>
+          <a href="Page 5">Rangers</a>
+          <a href="Page 6">Manchester United</a>
+</html>
+<h1>Baseball</h1>
+  <h2>Miami Marlins</h2>
+    <h3>The Disappointment of Florida</h3>
+    <a href="https://www.mlb.com/marlins"><img src="miami marlins"/>
+    <p> The Miami Marlins are a National League baseball team located in Miami, Florida. They have 2 World Series wins and play at Marlins Park.
+      <a href=https://www.miamiherald.com/sports/spt-columns-blogs/barry-jackson/article235337172.html>Here is a news artcile featuring Derek Jeter and what he expects from his team.</a>
