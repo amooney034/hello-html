@@ -6,3 +6,7 @@
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
+a [target] {
+  background-color: green;
+}
