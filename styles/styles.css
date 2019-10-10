@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Mansalva|Oswald&display=swap');
 
 *{
-  background-color: #01FE23;
+  background-color: grey;
 }
 
 p{
@@ -24,10 +24,6 @@ h2{
 
 .ballpark{
   color: brown;
-}
-
-#target{
-  border-radius: 50px;
 }
 
 P::first-letter{
