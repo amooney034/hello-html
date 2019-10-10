@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
 
 *{
   background-color: #01FE23;
 }
+
 p{
   font-family: 'Open Sans', sans-serif;
 }
 
-a[href="https://www.metlifestadium.com/"] {
+a[href="https://www.metlifestadium.com/"]{
   font-size: 200px;
 }
 
@@ -24,5 +26,13 @@ h2{
 }
 
 #target{
-  border-radius: 50%;
+  border-radius: 50%px;
+}
+
+P::first-letter{
+  color: red;
+}
+
+h2+h3{
+  font-family: 'Mansalva', cursive;
 }
