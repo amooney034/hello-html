@@ -41,3 +41,15 @@ h2+h3{
 .hockey{
   font-family: 'Hepta Slab', serif;
 }
+
+#target{
+  text-decoration: italic;
+}
+
+#specific{
+  color: goldenrod;
+}
+
+#header{
+  text-align: center;
+}
